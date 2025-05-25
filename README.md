@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/213320019?v=4" alt="DohunYonori - The Verdant Seeker" width="180" height="180" style="border-radius: 50%; border: 3px solid #6c705e; padding: 3px;">
-  <h1>DohunYonori</h1>
-  <p><i>Guardian of the Unseen, Seeker of the Celestial Bloom.</i></p>
+  <h1>Dohun Yonori</h1>
+  <p><i>Seeker of the Celestial Bloom.</i></p>
 </div>
 
 ---
@@ -18,11 +18,13 @@ It is a quest for **ascension** – to elevate ideas from concept to creation, t
 
 My spirit draws deeply from realms beyond the screen:
 
-* **Vastness & Void:** The silent, boundless expanse of **outer space** continually inspires a sense of endless possibility and wonder.
-* **Myth & Lore:** The intricate, profound tapestries of **Tolkien's worlds** teach me the value of intricate detail, enduring spirit, and hidden strengths.
-* **Root & Bloom:** The delicate yet resilient beauty of **flowers** reminds me that even the most complex systems begin with a simple seed, blossoming with hidden logic.
-
-These are the unseen anchors of my digital craft.
+* **Python**.
+* **Data Analysis**.
+* **Machine Learning & PyTorch**.
+* **React Native**.
+* **Java**.
+* **MCP & Agents**.
+These are the unseen anchors of my digital craft, constantly evolving and expanding.
 
 ---
 
@@ -30,12 +32,15 @@ These are the unseen anchors of my digital craft.
 
 The instruments I wield in this creative journey often include:
 
+
+
+
 <p align="center">
   <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="Python" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-7-pack-logos-icons-2945272.png?f=webp" alt="TypeScript" width="50" height="50" style="margin: 0 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="React Native" width="50" height="50" style="margin: 0 10px;"/>
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="50" height="50" style="margin: 0 10px;"/>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/mcp.png" alt="MCP" width="50" height="50" style="margin: 0 10px;"/>
   <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="PyTorch" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Pandas" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="50" height="50" style="margin: 0 10px;"/>
   </p>
 <br>
 <i>Each line of code, a thread. Each project, a tapestry unfolding.</i>
