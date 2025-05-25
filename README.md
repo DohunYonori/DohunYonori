@@ -14,7 +14,7 @@ It is a quest for **ascension** – to elevate ideas from concept to creation, t
 
 ---
 
-### Echoes from My Core 🌳🌸
+### Echoes from My Core 🌳🌱
 
 My spirit draws deeply from realms beyond the screen:
 
